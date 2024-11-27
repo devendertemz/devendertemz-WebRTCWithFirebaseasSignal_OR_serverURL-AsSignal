@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "58725403705",
+    "project_id": "rnvideowebrtc",
+    "storage_bucket": "rnvideowebrtc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58725403705:android:c1e8118809306af9e151e8",
+        "android_client_info": {
+          "package_name": "com.rndemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGHrFidT3-jqPj7VrLMpad3E93kWcZaNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
